@@ -13,5 +13,6 @@
 ### Как выглядит изображение после использования фильтра:
 ![Image after filter](https://github.com/speedUpDev/PyCharm_task/blob/main/res.jpg)
 ## Отладчик
-![Watches](https://github.com/speedUpDev/PyCharm_task/blob/main/screenshots/watches.png) 
+![Watches](https://github.com/speedUpDev/PyCharm_task/blob/main/screenshots/watches.png)
+***
 Я вывел в отладцике тип картинки(format), длину(size[0]) и ширину(size[1]), вывел их в Watches для удобства.(Использовал исходжое фото из репозитория test.jpg)
